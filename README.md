@@ -16,4 +16,8 @@ index.html  https://github.com/RARangel/Mapping_Earthquakes/blob/main/Earthquake
 
 challenge_logic.js  https://github.com/RARangel/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js
 
+### Resources
+
+Tectonic plates Git Hub repository  https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_plates.json
+
 ![image](https://user-images.githubusercontent.com/98564776/166184850-aad58232-1c6e-4992-9db1-11d2c21f1a04.png)
