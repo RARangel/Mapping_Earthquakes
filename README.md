@@ -12,7 +12,7 @@ The purpose of this challenge was to build an earthquake map with two different 
 
 ### Files
 
-index.html
+index.html  https://github.com/RARangel/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html
 
 challenge_logic.js
 
